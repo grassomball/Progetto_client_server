@@ -81,8 +81,8 @@ int main() {
     printf("Connected to server %s:%d\n", SERVER_IP, PROTOPORT);
 
     char buffer[BUFFER_SIZE];
-    char TYPE;
-    int length;
+    /*char TYPE;
+    int length;*/
 
     while (1) {
         // Request user input for password type and length
