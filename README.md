@@ -40,4 +40,4 @@ A client-server application that allows users to generate customized passwords v
   1) SERVER => Navigate to the server directory => cd c: path_unzip/server/Debug and after run the server => server.exe
   2) CLIENT => Navigate to the client directory => cd c:path_unzip/client/Debug and after run the client => client.exe
  
-  NB <i> path_unzip = percorso dove è stata scompattato il progetto github in riferimento a client e server
+  N.B. <i> path_unzip = percorso dove è stata scompattato il progetto github in riferimento a client e server
