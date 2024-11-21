@@ -37,5 +37,7 @@ A client-server application that allows users to generate customized passwords v
 - Make sure both `client` and `server` projects are imported into Eclipse.
 - Build the projects using Eclipse's built-in build functionality.
 - Then open two command prompt; one for server, one for client
-  1) SERVER => Navigate to the server directory => cd path/server/Debug and after run the server => server.exe
-  2) CLIENT => Navigate to the client directory => cd path/client/Debug and after run the client => client.exe
+  1) SERVER => Navigate to the server directory => cd c: path_unzip/server/Debug and after run the server => server.exe
+  2) CLIENT => Navigate to the client directory => cd c:path_unzip/client/Debug and after run the client => client.exe
+ 
+  NB <i> path_unzip = percorso dove è stata scompattato il progetto github in riferimento a client e server
