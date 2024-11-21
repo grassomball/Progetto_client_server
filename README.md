@@ -1,4 +1,4 @@
-# btv-dwh
+# Progetto Client/Server in linguaggio C
 Ingestion CSV tramite bulk DDL COPY su REDSHIFT CLUSTER
 
 ---------------------------------------------
