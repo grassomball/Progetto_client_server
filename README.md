@@ -1,7 +1,7 @@
 # Progetto Client/Server in linguaggio C
 questo è un progetto C che si compone di: 
-1) <strong>componente client </strong>
-2) <strong>componente server </strong>
+1) <strong>Componente client </strong>
+2) <strong>Ccomponente server </strong>
 ---------------------------------------------
 STEP FUNCTION - sfNplRedshiftDataIngestion
 ---------------------------------------------
